@@ -1,0 +1,16 @@
+{
+    "name": "Site Blocker",
+    "description": "Control The User's Access To Any Website With Blacklist Or Whitelist, Block Or Allow User's Access In Client-Side Using JavaScript Program.",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "app.js"
+            ]
+        }
+    ]
+}
