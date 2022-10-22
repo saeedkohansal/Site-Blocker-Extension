@@ -1,4 +1,4 @@
-# Site Blocker Extension
+# Site Blocker Chrome Extension
 
 _Site Blocker Extension - Control Access To Any Website With Blacklist Or Whitelist By JavaScript_
 
