@@ -9,7 +9,7 @@ In this video, I will create a Site Blocker Chrome Extension, By that extension,
 ## Video Tutorial [ Creating This Extension From Scratch ]
 [https://youtu.be/RY0L34aBiOs](https://youtu.be/RY0L34aBiOs)
 
- 
+ 
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
